@@ -1,0 +1,2 @@
+/Users/mannir/AndroidStudioProjects/ReadJsonFromURL/app/build/intermediates/classes/debug
+/Users/mannir/AndroidStudioProjects/ReadJsonFromURL/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-d9e82ddca7e41333a47b141c75f7620f7e6359da.jar
